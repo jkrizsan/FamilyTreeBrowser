@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FamilyTreeBrowser/v17/.wsuo
+/.vs
+/FamilyTreeBrowser/.vs/FamilyTreeBrowser/config/applicationhost.config
+/FamilyTreeBrowser/.vs/FamilyTreeBrowser/DesignTimeBuild/.dtbcache.v2
+/FamilyTreeBrowser/.vs/FamilyTreeBrowser/FileContentIndex
+*.testlog
+*.manifest
+/FamilyTreeBrowser/FamilyTreeBrowser/bin/Debug/net7.0
+/FamilyTreeBrowser/.vs/FamilyTreeBrowser/v17
+/FamilyTreeBrowser/.vs/ProjectEvaluation
+/FamilyTreeBrowser/FamilyTreeBrowser/obj
+/FamilyTreeBrowser/FamilyTreeLogic/bin/Debug/net7.0
+/FamilyTreeBrowser/FamilyTreeLogic/obj
+/FamilyTreeBrowser/FamilyTreeTests/bin/Debug/net7.0
+/FamilyTreeBrowser/FamilyTreeTests/obj
+/FamilyTreeBrowser/FamilyTreeBrowser/Properties/launchSettings.json
